@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: BUDDYWORKS Avatar Dynamics - Menu
+  m_EditorClassIdentifier: 
+  controls:
+  - name: <b><color=#FDDA0D>Noseboop</color></b>
+    icon: {fileID: 2800000, guid: dbac020a7ec88c748a0d85144ece9a63, type: 3}
+    type: 102
+    parameter:
+      name: AD/Safety/Noseboop
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <b><color=#FDDA0D>Headpat</color></b>
+    icon: {fileID: 2800000, guid: 58358e34bd9fec84d9e928d71352f1b7, type: 3}
+    type: 102
+    parameter:
+      name: AD/Safety/Headpat
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: <b><color=#FDDA0D>Allow Self</color></b>
+    icon: {fileID: 2800000, guid: ad69b8f3646a50c4fb32e8faaff18c70, type: 3}
+    type: 102
+    parameter:
+      name: AD/Safety/AllowSelf
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

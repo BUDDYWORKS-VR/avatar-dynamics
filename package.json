@@ -1,0 +1,14 @@
+{
+  "name" : "wtf.buddyworks.avatardynamics",
+  "displayName" : "BUDDYWORKS Avatar Dynamics",
+  "version" : "0.1.0",
+  "unity" : "2022.3",
+  "description" : "Simple avatar contacts.",
+  "author": {
+    "name": "BUDDYWORKS",
+    "email": "hi@buddyworks.wtf"
+  },
+    "vpmDependencies" : {
+    "com.vrchat.avatars" : "3.x.x"
+  }
+}
