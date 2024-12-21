@@ -74,7 +74,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.942.0
+  vrcfuryVersion: 1.1137.0
   somethingIsBroken: 0
   config:
     features: []
@@ -9984,7 +9984,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.942.0
+  vrcfuryVersion: 1.1137.0
   somethingIsBroken: 0
   config:
     features: []
@@ -10034,7 +10034,12 @@ MonoBehaviour:
         - from: BUDDYWORKS Avatar Dynamics [VRCF]/
           to: 
           delete: 0
+        - from: Powered by BUDDYWORKS <3
+          to: 
+          delete: 1
         allowMissingAssets: 0
+        injectSpsDepthParam: 
+        injectSpsVelocityParam: 
         controller:
           version: 1
           fileID: 0
@@ -10132,7 +10137,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 3
   unityVersion: 2022.3.22f1
-  vrcfuryVersion: 1.942.0
+  vrcfuryVersion: 1.1137.0
   somethingIsBroken: 0
   config:
     features: []
