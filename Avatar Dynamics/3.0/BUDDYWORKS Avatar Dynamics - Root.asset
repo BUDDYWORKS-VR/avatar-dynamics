@@ -15,7 +15,7 @@ MonoBehaviour:
   Parameters: {fileID: 0}
   controls:
   - name: <color=#FDDA0D><b><line-height=100%>Avatar Dynamics</b></color>
-    icon: {fileID: 2800000, guid: dbac020a7ec88c748a0d85144ece9a63, type: 3}
+    icon: {fileID: 2800000, guid: 5d363efc5cca2014199f315c5985008c, type: 3}
     type: 103
     parameter:
       name: 
