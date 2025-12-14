@@ -5,6 +5,7 @@
 *Provides some simple contact points with sounds and particles.*
 
 [![Generic badge](https://img.shields.io/github/downloads/BUDDYWORKS-VR/avatar-dynamics/total?label=Downloads)](https://github.com/BUDDYWORKS-VR/avatar-dynamics/releases/latest)
+[![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/BUDDYWORKS-VR/worldextension/blob/main/LICENSE)
 [![Generic badge](https://img.shields.io/badge/Unity-2022.3.22f1-red.svg)](https://unity3d.com/unity/whats-new/2022.3.22)
 
 [![Generic badge](https://img.shields.io/discord/1115323445316702269?color=%237289da&label=DISCORD&logo=Discord&style=for-the-badge)](https://discord.buddyworks.wtf/)
